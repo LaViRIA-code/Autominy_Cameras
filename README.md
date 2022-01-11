@@ -1,1 +1,1 @@
-# Autominy_Sistema-de-localizaci-n-basado-en-c-maras
+# Autominy_Sistema-de-localizacion-basado-en-camaras
